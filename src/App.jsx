@@ -90,15 +90,7 @@ function App() {
         </section>
         <section>
   <h3>Accessible Video</h3>
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/5H1JGdqLrWo" 
-    title="YouTube video player" 
-    frameBorder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowFullScreen>
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lI0JjVF2q_Y?si=4K2FJmZzlfCIjYMh" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p>This video covers the importance of web accessibility and provides an overview of best practices.</p>
 </section>
       </main>

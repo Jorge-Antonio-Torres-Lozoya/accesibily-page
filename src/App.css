@@ -74,4 +74,8 @@ video {
 }
 a{
  color: #1F27FF; 
+ text-decoration: underline;
+}
+.border{
+  border:#1F27FF solid 2px ;
 }
